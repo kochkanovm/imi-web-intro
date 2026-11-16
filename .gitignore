@@ -1,0 +1,11 @@
+# ОС
+.DS_Store
+Thumbs.db
+
+# Редакторы
+.vscode/
+.idea/
+
+# Секреты
+.env
+*.key
